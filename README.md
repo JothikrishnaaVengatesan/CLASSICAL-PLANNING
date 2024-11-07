@@ -117,6 +117,6 @@ print(plan)
 ```
 
 # Exact Output:
-
+![alt text](image.png)
 # Result:
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
